@@ -1,0 +1,20 @@
+.project-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 85%;
+  margin: 20px auto;
+}
+
+.project-popup .text-center{
+	text-align: center;
+}
+
+.project-popup p{
+	text-align: justify;
+}
+
+.project-popup .mt-5{
+	margin-top: $spacer * 3;
+}
